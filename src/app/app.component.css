@@ -1,0 +1,30 @@
+.toggleMenu {
+    display: absolute;
+    float: right;
+    margin: 1rem;
+}
+
+.bodyContainer {
+    height: 100vh;
+    width: 100%;
+    background-image: url(../assets/beach.jpeg);
+}
+
+.logoContainer {
+    width: 40%;
+    margin: auto;
+    padding: 50px 20px;
+}
+
+.logoText {
+    font-size: 3rem;
+}
+
+.contentContainer {
+    height: 40%;
+    width: 30%;
+    margin: auto;
+    background-color: white;
+    border: 2px solid black;
+    margin-top: 25vh;
+}
