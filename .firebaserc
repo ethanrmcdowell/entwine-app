@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "entwine-app-80aa4": {
+      "hosting": {
+        "entwine-app": [
+          "entwine-app-80aa4"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "entwine-app-80aa4"
+  }
+}
